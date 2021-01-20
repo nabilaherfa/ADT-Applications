@@ -1,0 +1,10 @@
+kayu
+100
+beton
+200
+semen
+80
+keramik
+40
+cat
+120

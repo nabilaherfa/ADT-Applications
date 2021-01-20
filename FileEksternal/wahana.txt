@@ -1,0 +1,112 @@
+Wangkyi's Universe
+80
+10
+10
+Semua Umur
+120
+2
+kayu
+1
+semen
+1
+keramik
+Wangkyi's World
+100
+20
+15
+Semua Umur
+180
+3
+kayu
+2
+beton
+2
+cat
+Wangkyi's Galaxy
+100
+15
+15
+Semua Umur
+150
+3
+beton
+3
+keramik
+2
+cat
+HALOlintar
+100
+12
+5
+Dewasa
+150
+3
+kayu
+2
+beton
+1
+cat
+uWuCoaster
+120
+10
+8
+Dewasa
+150
+3
+kayu
+3
+baja
+1
+cat
+LegendCoaster
+150
+15
+8
+Dewasa
+180
+3
+beton
+2
+cat
+3
+semen
+Choco's Land
+100
+15
+20
+Anak - Anak
+200
+2
+kayu
+2
+keramik
+1
+cat
+Matcha's River
+150
+20
+15
+Anak - Anak
+200
+2
+kayu
+2
+pasir
+2
+semen
+Hazelnutt's Land
+150
+20
+15
+Anak - Anak
+200
+2
+beton
+2
+semen
+2
+cat 
+
+
+
+
